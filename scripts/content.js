@@ -33,4 +33,5 @@ function checkAndAddButton() {
     const nextChapterId = currentChapterId + 1;
     const nextUrl = url.replace(/martial-peak-(\d+)/, `martial-peak-${nextChapterId}`);
     window.location.href = nextUrl; 
+  });
 }
