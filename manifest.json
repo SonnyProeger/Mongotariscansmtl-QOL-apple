@@ -3,9 +3,6 @@
     "name": "monogatariscansmtl-QOL",
     "version": "1.0",
     "description": "Add a 'Next Chapter' button to navigate chapters.",
-    "permissions": [
-        "activeTab"
-    ],
     "content_scripts": [
         {
             "matches": ["https://www.monogatariscansmtl.com/*"],
