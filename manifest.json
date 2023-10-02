@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "Next Chapter Button For monogatariscansmtl",
+    "version": "1.0",
+    "description": "Add a 'Next Chapter' button to navigate chapters.",
+    "permissions": [
+        "activeTab"
+    ],
+    "content_scripts": [
+        {
+            "matches": ["https://www.monogatariscansmtl.com/*"], // Adjust the URL as needed
+            "js": ["scripts/content.js"]
+        }
+    ],
+    "icons": {
+    "16": "images/icon-16.png",
+    "32": "images/icon-32.png",
+    "48": "images/icon-48.png",
+    "128": "images/icon-128.png"
+    }
+}
