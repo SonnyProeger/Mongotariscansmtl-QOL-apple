@@ -1,4 +1,4 @@
-# Mongotariscansmtl-QOL (Martial Peak Edition)
+# Mongotariscansmtl-QOL
 
 Enhance your "Martial Peak" reading experience on "https://www.monogatariscansmtl.com/" with this specialized Quality of Life (QOL) tool.
 
