@@ -10,9 +10,11 @@ Enhance your "Martial Peak" reading experience on "https://www.monogatariscansmt
 
 ## Getting Started
 
-1. **Installation:** Simply install this tool as a browser extension in Chrome.
+1. **Installation:** Simply install this tool using the appstore. https://apps.apple.com/nl/app/monogatariscansmtl-qol/id6468541502
 
-2. **Enjoy Your Reading:** Visit "https://www.monogatariscansmtl.com/" and start reading "Martial Peak" with enhanced navigation and convenience.
+2. Enable the extension in Safari Extensions
+
+3. **Enjoy Your Reading:** Visit "https://www.monogatariscansmtl.com/" and start reading "Martial Peak" with enhanced navigation and convenience.
 
 ## Compatibility
 
